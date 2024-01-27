@@ -4,3 +4,4 @@ dist
 volume
 .locals
 .DS_Store
+prisma/*.db
