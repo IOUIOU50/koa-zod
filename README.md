@@ -137,3 +137,5 @@ sampleController
     },
   });
 ```
+
+check [sample controller example](https://github.com/IOUIOU50/koa-zod/tree/sample-prisma).
